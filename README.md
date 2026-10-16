@@ -42,10 +42,10 @@ Report the measured results for:
 4. Follow the notebook instructions to train or evaluate the model.
 
 ## Dataset
-Describe the dataset used, its source, the number of images, and the class labels.
+The dataset was obtained from the Fashion Product Images (Small) collection available through Hugging Face and comprises labelled fashion product images. Five target categories were selected: T-shirts, shirts, jeans, dresses and shorts. Images were resized to 160 × 160 pixels and represented using three colour channels.
 
 ## Limitations
 Performance may vary on real-world photographs that differ from the training dataset.
 
 ## Author
-[Your Name]
+Bamidele Adeniyi
